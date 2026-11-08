@@ -1,0 +1,40 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+
+# Logged data (grows large - 30 MB+ after a few hours)
+data/*.csv
+!data/sample_data.csv
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local data and secrets
+machine_data.csv
+.env
+
+# Logs
+*.log
