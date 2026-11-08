@@ -18,7 +18,7 @@ A real-time machine condition monitoring dashboard built with an **ESP32**, an *
 
 | Live monitoring | Historical data |
 |---|---|
-| ![Live charts](docs/images/dashboard-overview.png) | ![Historical charts](docs/images/live-charts.png) |
+| ![Live charts](docs/images/live-charts.png) | ![Historical charts](docs/images/dashboard-overview.png) |
 
 ## How it works
 
