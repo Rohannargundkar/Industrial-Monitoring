@@ -11,7 +11,7 @@ A real-time machine condition monitoring dashboard built with an **ESP32**, an *
 - Electrical monitoring: voltage, current, power and accumulated energy (Wh)
 - Automatic condition classification: `NORMAL` / `WARNING` / `DANGER`
 - Machine event log (condition changes with timestamps)
-- Hardware status panel (ESP32, Wi-Fi, RTC, SD card)
+- Hardware status panel (ESP32, Wi-Fi, RTC,ADXL345,INA219)
 - Historical charts and automatic CSV data logging
 
 ## Screenshots
