@@ -2,7 +2,7 @@
 
 A real-time machine condition monitoring dashboard built with an **ESP32**, an **ADXL345** accelerometer, an **INA219** power monitor and a **DS3231** RTC. Sensor data is streamed over USB serial to a **Flask** server that computes vibration features, classifies machine condition and serves a live web dashboard.
 
-![Dashboard overview](docs/images/dashboard-overview.png)
+![Dashboard overview](docs/images/historical-charts.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ A real-time machine condition monitoring dashboard built with an **ESP32**, an *
 
 | Live monitoring | Historical data |
 |---|---|
-| ![Live charts](docs/images/live-charts.png) | ![Historical charts](docs/images/historical-charts.png) |
+| ![Live charts](docs/images/dashboard-overview.png) | ![Historical charts](docs/images/live-charts.png) |
 
 ## How it works
 
